@@ -1,4 +1,6 @@
-Project Summary – COVID-19 Classification
+Project Summary
+
+COVID-19 Classification
 
 This project aimed to predict whether a patient has COVID-19 using demographic and symptom-based features such as age, fever, cough, gender, and city. A full supervised machine learning pipeline was implemented, including preprocessing, model training, evaluation, and decision threshold tuning.
 
